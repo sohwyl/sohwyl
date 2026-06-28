@@ -4,7 +4,6 @@
 
 ```yaml
 # /etc/sohwyl/profile.conf
-
 identity:
   role: "Security Researcher & Developer"
   environment: ["GNU/Linux", "Vim", "Tmux"]
