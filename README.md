@@ -1,42 +1,20 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=>_SYSTEM_ACCESSED...;>_WELCOME_TO_MY_TERMINAL;>_LOADING_PROFILE_DATA...;>_ACCESS_LEVEL:_ROOT;>_USER:___SOHWYL" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=1500&color=8B949E&width=400&lines=sohwyl@system:~%24+whoami;sohwyl;sohwyl@system:~%24+uptime;up+1337+days" alt="Terminal" />
 
-<br>
+> *"The quieter you become, the more you are able to hear."*
 
-<p align="center">
-  <!-- یک انیمیشن هکری ماتریکسی جایگزین لینک خراب قبلی شد -->
-  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="600" alt="Matrix Rain" style="border-radius: 8px; border: 1px solid #00FF00;"/>
-</p>
+```yaml
+# /etc/sohwyl/profile.conf
 
-<br>
+identity:
+  role: "Security Researcher & Developer"
+  environment: ["GNU/Linux", "Vim", "Tmux"]
+  core_stack: ["C", "Python", "Bash", "Go"]
 
-<div align="center">
-
-### ⚡ SKILL_SET
-
-<img src="https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kali-linux&logoColor=00FF00" />
-<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00FF00" />
-<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=00FF00" />
-<img src="https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF00" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-#### 📊 LIVE_FEED
-<!-- پس‌زمینه این کادر رو مشکی خالص کردم (bg_color=000000) تا روی تم روشن شما هم جذاب باشه -->
-<a href="https://github.com/sohwyl">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohwyl&show_icons=true&bg_color=000000&title_color=00FF00&text_color=A1B56C&icon_color=00FF00&border_color=00FF00&hide_border=false" alt="Stats"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/sohwyl"><img src="https://img.shields.io/badge/GITHUB_PROFILE-00FF00?style=for-the-badge&logo=github&logoColor=black"/></a>
-</div>
+philosophy:
+  - "Security is a process, not a product."
+  - "Trust, but verify."
+  
+sohwyl@root:~$ gpg --fingerprint sohwyl
+pub   rsa4096 2024-01-01 [SC]
+      9F3A 1B2C 5D6E 7F80 9A0B  1C2D 3E4F 5A6B 7C8D 9E0F
+uid   [ultimate] sohwyl <encrypted_channel@dev.null>
