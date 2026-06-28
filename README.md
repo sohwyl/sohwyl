@@ -1,19 +1,13 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=1500&color=8B949E&width=400&lines=sohwyl@system:~%24+whoami;sohwyl;sohwyl@system:~%24+uptime;up+1337+days" alt="Terminal" />
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=2000&color=8B949E&center=true&vCenter=true&width=400&lines=sohwyl@root:~%24+whoami;Security+Researcher+%26+Developer;sohwyl@root:~%24+cat+stack.txt;C,+Python,+Bash,+Go;sohwyl@root:~%24+status;Ghost+Mode+Enabled..." alt="Terminal" />
+
+<br><br>
 
 > *"The quieter you become, the more you are able to hear."*
 
-```yaml
-# /etc/sohwyl/profile.conf
-identity:
-  role: "Security Researcher & Developer"
-  environment: ["GNU/Linux", "Vim", "Tmux"]
-  core_stack: ["C", "Python", "Bash", "Go"]
+<br><br>
 
-philosophy:
-  - "Security is a process, not a product."
-  - "Trust, but verify."
-  
-sohwyl@root:~$ gpg --fingerprint sohwyl
-pub   rsa4096 2024-01-01 [SC]
-      9F3A 1B2C 5D6E 7F80 9A0B  1C2D 3E4F 5A6B 7C8D 9E0F
-uid   [ultimate] sohwyl <encrypted_channel@dev.null>
+<img src="https://img.shields.io/badge/PGP_FINGERPRINT-9F3A_1B2C_5D6E_7F80-0d1117?style=for-the-badge&logo=gnupg&logoColor=8B949E&labelColor=0d1117" alt="PGP" />
+
+</div>
