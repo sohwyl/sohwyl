@@ -1,15 +1,12 @@
 <p align="center">
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=>_SYSTEM_ACCESSED...;>_WELCOME_TO_MY_TERMINAL;>_LOADING_PROFILE_DATA...;>_ACCESS_LEVEL:_ROOT;>_USER:___SOHWYL" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=>_SYSTEM_ACCESSED...;>_WELCOME_TO_MY_TERMINAL;>_LOADING_PROFILE_DATA...;>_ACCESS_LEVEL:_ROOT;>_USER:___SOHWYL" alt="Typing SVG" />
 </p>
 
 <br>
 
 <p align="center">
-
-<img src="https://profile-readme-generator.com/assets/output/octocat.json?user=sohwyl&theme=default" width="600" alt="Terminal Animation"/>
-
+  <!-- یک انیمیشن هکری ماتریکسی جایگزین لینک خراب قبلی شد -->
+  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="600" alt="Matrix Rain" style="border-radius: 8px; border: 1px solid #00FF00;"/>
 </p>
 
 <br>
@@ -30,9 +27,9 @@
 <div align="center">
 
 #### 📊 LIVE_FEED
-
+<!-- پس‌زمینه این کادر رو مشکی خالص کردم (bg_color=000000) تا روی تم روشن شما هم جذاب باشه -->
 <a href="https://github.com/sohwyl">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohwyl&show_icons=true&bg_color=00000000&title_color=00FF00&text_color=A1B56C&icon_color=00FF00&border_color=00FF00&hide_border=false" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sohwyl&show_icons=true&bg_color=000000&title_color=00FF00&text_color=A1B56C&icon_color=00FF00&border_color=00FF00&hide_border=false" alt="Stats"/>
 </a>
 
 </div>
@@ -42,5 +39,4 @@
 <div align="center">
 
 <a href="https://github.com/sohwyl"><img src="https://img.shields.io/badge/GITHUB_PROFILE-00FF00?style=for-the-badge&logo=github&logoColor=black"/></a>
-
 </div>
