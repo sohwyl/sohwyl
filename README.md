@@ -23,5 +23,3 @@ root@sohwyl:~$ ./whoami.sh
 📊 [ S Y S T E M _ S T A T S ]
 <img src="https://github-readme-stats.vercel.app/api?username=sohwyl&show_icons=true&bg_color=0D1117&title_color=00FF00&text_color=A1B56C&icon_color=00FF00&border_color=00FF00&hide_border=false" alt="GitHub Stats" />
 <br><br>
-
-<a href="mailto:your-email@gmail.com"> <img src="https://img.shields.io/badge/Contact_Me-00FF00?style=for-the-badge&logo=minutemailer&logoColor=black" /> </a></div> ```
